@@ -1,5 +1,4 @@
 # Detection
-# H1
 1. Capture Image
 2. Create Blank Images
 3. Brighten Image
